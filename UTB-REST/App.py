@@ -1,3 +1,6 @@
+# Hernan Zuluaga - T00060214
+# Owen De Jesus Tovar Puello - T00058790
+
 from flask import Flask, render_template, request, redirect, url_for, flash
 from flask_mysqldb import MySQL
 
